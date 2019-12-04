@@ -34,5 +34,5 @@ collection was funded as part of the Ecosystems Programme at the
 British Antarctic Survey, Natural Environment Research Council, a part
 of UK Research and Innovation.
 
-This work was supported by the Antarctic Wildlife Research Fund and
-the Natural Environment Research Council grant NE/N012070/1.
+This work was supported by the Natural Environment Research Council grant
+NE/N012070/1.
