@@ -1,4 +1,4 @@
-The EchogramImages.jl package is licensed under the MIT "Expat" License:
+This software is licensed under the MIT "Expat" License:
 
 > Copyright (c) 2019: Rob Blackwell.
 >
