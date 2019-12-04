@@ -7,7 +7,7 @@ This repository contains supplementary code and data for the paper
 All software is written in Julia 1.3 and made available as Jupyter
 notebooks:
 
-[Colour maps](colour-map.ipynb)
+[Colour maps](colour-maps.ipynb)
 
 [Echograms](echograms.ipynb)
 
