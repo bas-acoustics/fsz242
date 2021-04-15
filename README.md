@@ -1,10 +1,12 @@
 # Colour maps for fisheries acoustic echograms
 
+## Introduction
+
 This repository contains supplementary code and data for the paper
 *Colour maps for fisheries acoustic echograms* (in press). `DOI:
 10.1093/icesjms/fsz242`
 
-All software is written in Julia 1.3 and made available as Jupyter
+All software is written in Julia 1.6.0 and made available as Jupyter
 notebooks:
 
 [Colour maps](colour-maps.ipynb)
@@ -14,7 +16,13 @@ notebooks:
 [Which Blair Test](which-blair-test.ipynb)
 
 [Colour map assessment methods](assessment.ipynb)
- 
+
+## Instructions
+
+Clone the directory from github and `cd` into it. Run Julia. From the
+package menu, `] activate .`. Then `using IJulia` and
+`notebook(dir=".")`.
+
 ## Acknowledgements
 
 The Krill ball - Sample Simrad EK60 echo sounder data is courtesy of
@@ -36,3 +44,7 @@ of UK Research and Innovation.
 
 This work was supported by the Natural Environment Research Council grant
 NE/N012070/1.
+
+## History
+
+20210414 reb Updated for Julia 1.6.0
